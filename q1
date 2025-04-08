@@ -1,6 +1,6 @@
 def swap(a, b): 
     return b, a 
-
+#task 1 a function that can swap 2 values
 num1 = 4
 num2 = 6
 
