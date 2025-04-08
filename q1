@@ -8,6 +8,6 @@ def swap(x, y):
     x = x - y
 
     return x, y
-    
-print(swap("Apple", 10)) 
-print(swap(9,17))
+
+print(swap("Apple", 10))
+print(swap(9, 17))
